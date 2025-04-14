@@ -3,7 +3,7 @@
 This project provides solutions to the classic **Traveling Salesman Problem (TSP)** using various algorithms. The goal is to find the shortest possible route that visits each city exactly once and returns to the origin city.
 
 ## 📌 Problem Definition
-The Traveling Salesman Problem is an NP-hard optimization problem where, given a list of cities and their pairwise distances, the task is to find the shortest tour that visits each city exactly once and returns to the starting point.
+The Traveling Salesman Problem is an NP-hard optimization problem where, given a list of cities and their pairwise distances, the task is to find the shortest tour that visits each city exactly once and returns to the starting point..
 
 ## ✨ Features
 - **Algorithms Implemented**:
