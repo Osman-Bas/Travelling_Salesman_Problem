@@ -13,7 +13,7 @@ The Traveling Salesman Problem is an NP-hard optimization problem where, given a
 - **Visualization**: Plot the optimal route and city coordinates.
 - **Performance Analysis**: Compare runtime and accuracy of algorithms.
 
-## 🛠 Installation
+## 🛠 Installation:
 1. **Prerequisites**:
    - Python 3.x
    - Required packages: `numpy`, `matplotlib`
