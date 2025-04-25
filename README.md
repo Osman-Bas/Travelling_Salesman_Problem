@@ -11,7 +11,7 @@ The Traveling Salesman Problem is an NP-hard optimization problem where, given a
   - Dynamic Programming (DP with Bitmasking).
   - Genetic Algorithm (Approximate solution for large graphs).
 - **Visualization**: Plot the optimal route and city coordinates.
-- **Performance Analysis**: Compare runtime and accuracy of algorithms..
+- **Performance Analysis**: Compare runtime and accuracy of algorithms.
 
 ## 🛠 Installation
 1. **Prerequisites**:
